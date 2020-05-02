@@ -4,6 +4,7 @@
 Instructions:
 -------------
 
+
 This script uses Python 3.6+ and requires openbabel and PyMOL 2.2.
 
 0. Use the command python3 AutoDock.py -h for the help menu.
